@@ -1,2 +1,1 @@
-# srijana-sah-portfolio
- portfolio website ( Srijana Sah )
+Bright pastel Srijana Sah portfolio. Upload all files to the root of your GitHub Pages repository.
